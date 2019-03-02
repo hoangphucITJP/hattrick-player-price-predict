@@ -1,0 +1,4 @@
+- Filter outlier
+- Implement Chrome extension
+- Expand features
+- 
